@@ -87,8 +87,9 @@ Clinical Assistant доступен как веб-версия.
 
 - 🌐 [Веб-версия Clinical Assistant](https://class.metodsk.ru)
 - 📊 [Учебный трекер](https://tracker.class.metodsk.ru)
-- 💻 Windows-приложение — офлайн-прохождение модуля «Обучение»  
-  Приложение доступно для скачивания непосредственно из веб-версии в разделе «Обучение».
+- 🖥️ **Windows-приложение** — [скачать ClinicalAssistant.exe](https://github.com/MetodSK/clinical-assistant/releases/latest)
+  - офлайн-прохождение модуля «Обучение»;
+  - работает без подключения к интернету.
 
 ### Интерфейс системы
 
